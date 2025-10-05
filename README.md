@@ -59,7 +59,7 @@ To safely stop the scan at any time, press Ctrl+C. ✋
 
 ## Output 📤
 
-[PyPorter_output](PyPorter_output.png)
+![PyPorter_output](PyPorter_output.png)
 
 ---
 
