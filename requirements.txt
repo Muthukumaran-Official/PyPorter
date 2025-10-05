@@ -1,0 +1,4 @@
+coloroma
+rich
+scapy
+requests
