@@ -2,7 +2,7 @@
 
 PyPorter is a Python-based advanced network port scanner designed for security enthusiasts, penetration testers, and network admins. It scans common and custom port ranges on IPv4/IPv6 targets, detects open ports, grabs service banners, checks for SSL, and displays results in a clean, colorized table format. 🎯
 
-![PyPorter Banner](banner.png)  
+![PyPorter Banner](PyPorter_banner.png)  
 
 ---
 
@@ -57,6 +57,12 @@ To safely stop the scan at any time, press Ctrl+C. ✋
 
 ---
 
+## Output 📤
+
+[PyPorter_output](PyPorter_output.png)
+
+---
+
 ## 📌 Notes
 
 - Banner grabbing depends on the server’s responses; some services may not respond visibly. 🤫
@@ -76,7 +82,7 @@ Contributions, bug reports, and suggestions are warmly welcome. Feel free to for
 
 ---
 
-### File credits
+### File Credits
 
 - mac_vendor_list file was downloaded from [mac_vendor_list](https://gist.github.com/aallan/b4bb86db86079509e6159810ae9bd3e4)👏🏻
 - author of file [Allan](https://gist.github.com/aallan)💪🏻
